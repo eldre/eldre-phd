@@ -6,16 +6,14 @@ If you have any question, do not hesitate to contact me at: *elliot.dreujou(at)u
 
 Please note that this website is under construction. Updates are often published with modification of the structure or the results (see log below).
 
-**Latest updates** (*June 12*)<br>
+**Latest updates** (*July 17*)<br>
+- Addition of Chap2 scripts (WIP)
+- Creation of human activities maps (distance and scores)
+- Update of site structure
+
+**Previous updates** (*June 12*)<br>
 - Modification of site structure
 - Corrections of small typos in the scripts
-
-**Previous updates** (*April 30*)<br>
-- Addition of characteristic species abundances maps
-- Improvement of maps
-- Simplification and enhancements of functions
-- Correction of typos
-- Miscellaneous updates in the code
 
 -----
 
@@ -36,7 +34,8 @@ Scripts below compile all analyses done during Chapter 1 with R and PRIMER:
 
 # 2. PhD Chapter 2
 
-**WORK IN PROGRESS**
+- [Section 1](https://eldre.github.io/eldre-phd/Chap2/Chap2_article_1.html): maps
+- [Section 2](https://eldre.github.io/eldre-phd/Chap2/Chap2_article_2.html): analyses
 
 # 3. PhD Chapter 3
 
