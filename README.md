@@ -22,21 +22,23 @@ Please note that this website is under construction. Updates are often published
 
 Scripts below compile all analyses done during Chapter 1 with R and PRIMER:
 
-## Analyses for the local assessment
+### Analyses for the local assessment
 
-- [Section 1](https://eldre.github.io/eldre-phd/Chap1/Chap1_article_local1.html): maps and figures
-- [Section 2](https://eldre.github.io/eldre-phd/Chap1/Chap1_article_local2.html): analyses
+- Section 1.1: [maps and figures](https://eldre.github.io/eldre-phd/Chap1/Chap1_article_local1.html)
+- Section 1.2: [analyses](https://eldre.github.io/eldre-phd/Chap1/Chap1_article_local2.html)
 
-## Analyses for the regional assessment
+### Analyses for the regional assessment
 
-- [Section 1](https://eldre.github.io/eldre-phd/Chap1/Chap1_article_regional1.html): maps and figures
-- [Section 2](https://eldre.github.io/eldre-phd/Chap1/Chap1_article_regional2.html): analyses
+- Section 2.1: [maps and figures](https://eldre.github.io/eldre-phd/Chap1/Chap1_article_regional1.html)
+- Section 2.2: [analyses](https://eldre.github.io/eldre-phd/Chap1/Chap1_article_regional2.html)
 
 # 2. PhD Chapter 2
 
-- [Section 1](https://eldre.github.io/eldre-phd/Chap2/Chap2_article_1.html): maps
-- [Section 2](https://eldre.github.io/eldre-phd/Chap2/Chap2_article_2.html): analyses
+Scripts below compile all analyses done during Chapter 2 with R:
+
+- Section 1: [maps](https://eldre.github.io/eldre-phd/Chap2/Chap2_article_1.html)
+- Section 2: [figures](https://eldre.github.io/eldre-phd/Chap2/Chap2_article_2.html)
 
 # 3. PhD Chapter 3
 
-**WORK IN PROGRESS**
+**WORK IN PROGRESS, TO BE ADDED**
