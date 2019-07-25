@@ -37,7 +37,7 @@ Scripts below compile all analyses done during Chapter 1 with R and PRIMER:
 Scripts below compile all analyses done during Chapter 2 with R:
 
 - Section 1: [maps](https://eldre.github.io/eldre-phd/Chap2/C2_analyses_1.html)
-- Section 2: [figures](https://eldre.github.io/eldre-phd/Chap2/C2_analyses_2.html) (not available yet)
+- Section 2: [analyses](https://eldre.github.io/eldre-phd/Chap2/C2_analyses_2.html) (not available yet)
 
 # 3. PhD Chapter 3
 
