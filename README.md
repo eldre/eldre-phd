@@ -41,4 +41,4 @@ Scripts below compile all analyses done during Chapter 2 with R:
 
 # 3. PhD Chapter 3
 
-**WORK IN PROGRESS, TO BE ADDED**
+This [script](https://eldre.github.io/eldre-phd/Chap3/C3_analyses.html) compile all analyses done during Chapter 3 with R.
