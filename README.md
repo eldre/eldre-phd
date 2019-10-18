@@ -6,9 +6,8 @@ If you have any question, do not hesitate to contact me at: *elliot.dreujou(at)u
 
 Please note that this website is under construction. Updates are often published with modification of the structure or the results (see log below).
 
-**Latest updates** (*October 7th*)<br>
+**Latest updates** (*October 18th*)<br>
 - Addition of current version of analyses for Chap2
-- Small updates to headers and script structure
 
 **Previous major updates** (*July 31*)<br>
 - Addition of Chap2 scripts (WIP)
