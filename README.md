@@ -6,15 +6,12 @@ If you have any question, do not hesitate to contact me at: *elliot.dreujou(at)u
 
 Please note that this website is under construction. Updates are often published with modification of the structure or the results (see log below).
 
-**Latest updates** (*November 22nd*)<br>
+**Latest updates** (*November 26th*)<br>
+- Addition of ANCOVA results (to be checked)
+
+**Previous major updates** (*November 22nd*)<br>
 - Update of Chap1 scripts, with enhanced maps and barplots
 - Addition of current version of analyses for Chap2
-
-**Previous major updates** (*October 18th*)<br>
-- Creation of human activities maps (distance and scores)
-- Addition of Chap2 scripts (WIP)
-- Addition of Chap3 script (WIP)
-- Update of site structure
 
 -----
 
