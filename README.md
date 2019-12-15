@@ -13,7 +13,7 @@ If you have any question, do not hesitate to contact me at: *elliot.dreujou(at)u
  - DistLM updated in PRIMER and plotted with R, without outlier stations and correlated variables
 - Tidying of scripts and functions
 
-**Previous major updates** (*November 22nd*)<br>
+> **Previous major updates** (*November 22nd*)<br>
 - Update of Chap1 scripts, with enhanced maps and barplots
 - Addition of current version of analyses for Chap2
 
