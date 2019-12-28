@@ -4,7 +4,12 @@ These pages present results obtained during the PhD of Elliot Dreujou (Universit
 
 If you have any question, do not hesitate to contact me at: *elliot.dreujou(at)uqar.ca*
 
-> **Latest updates** (*December 11th*)<br>
+> **Latest updates** (*December 28th*)<br>
+- Update of phylum frequency barplots (addition of sites and regions)
+- Update of SIMPER and IndVal with logarithm abundances
+- Reordering of scripts loc2 and reg2
+
+> **Previous major updates** (*December 11th*)<br>
 - Addition of ANCOVA results
 - Update of regressions:
  - characteristic species removed as dependent variables along with their respective Poisson GLM
@@ -12,10 +17,6 @@ If you have any question, do not hesitate to contact me at: *elliot.dreujou(at)u
  - outliers and correlated variables updated with the new model design
  - DistLM updated in PRIMER and plotted with R, without outlier stations and correlated variables
 - Tidying of scripts and functions
-
-> **Previous major updates** (*November 22nd*)<br>
-- Update of Chap1 scripts, with enhanced maps and barplots
-- Addition of current version of analyses for Chap2
 
 -----
 
