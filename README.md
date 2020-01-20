@@ -4,37 +4,37 @@ These pages present results obtained during the PhD of Elliot Dreujou (Universit
 
 If you have any question, do not hesitate to contact me at: *elliot.dreujou(at)uqar.ca*
 
-> **Latest updates** (*December 28th*)<br>
+> **Latest updates** (*January 20th*)<br>
+- Addition of 2017 campaign (same stations as in 2016)
+- Modification of species in the species list (*e.g.* bryozoans and hydrozoans added)
+- Reordering and tidying of scripts
+
+> **Previous major updates** (*December 28th*)<br>
 - Update of phylum frequency barplots (addition of sites and regions)
 - Update of SIMPER and IndVal with logarithm abundances
 - Reordering of scripts loc2 and reg2
-
-> **Previous major updates** (*December 11th*)<br>
-- Addition of ANCOVA results
-- Update of regressions:
- - characteristic species removed as dependent variables along with their respective Poisson GLM
- - depth removed as independant variable, as it is useless for the local campaign and it is now included in the regional campaign's ANCOVA
- - outliers and correlated variables updated with the new model design
- - DistLM updated in PRIMER and plotted with R, without outlier stations and correlated variables
-- Tidying of scripts and functions
 
 -----
 
 
 # 1. PhD Chapter 1
 
-### 1.1. Analyses for the local campaign
+- 2014 campaign:
 
-Maps and figures can be found [here](https://eldre.github.io/eldre-phd/Chap1/C1_analyses_loc1.html), and analyses and regressions are [here](https://eldre.github.io/eldre-phd/Chap1/C1_analyses_loc2.html).
+Maps and figures can be found [here](https://eldre.github.io/eldre-phd/Chap1/C1_analyses_14A.html), and analyses and regressions are [here](https://eldre.github.io/eldre-phd/Chap1/C1_analyses_14B.html).
 
-### 1.2. Analyses for the regional campaign
+- 2016 campaign:
 
-Maps and figures can be found [here](https://eldre.github.io/eldre-phd/Chap1/C1_analyses_reg1.html), and analyses and regressions are [here](https://eldre.github.io/eldre-phd/Chap1/C1_analyses_reg2.html).
+Maps and figures can be found [here](https://eldre.github.io/eldre-phd/Chap1/C1_analyses_16A.html), and analyses and regressions are [here](https://eldre.github.io/eldre-phd/Chap1/C1_analyses_16B.html).
+
+- 2017 campaign:
+
+Maps and figures can be found [here](https://eldre.github.io/eldre-phd/Chap1/C1_analyses_17A.html), and analyses and regressions are [here](https://eldre.github.io/eldre-phd/Chap1/C1_analyses_17B.html).
 
 # 2. PhD Chapter 2
 
-Calculations of indices of influence can be found [here](https://eldre.github.io/eldre-phd/Chap2/C2_analyses_1.html), and HMSC and regression results are [here](https://eldre.github.io/eldre-phd/Chap2/C2_analyses_2.html).
+Calculations of indices of influence are [here](https://eldre.github.io/eldre-phd/Chap2/C2_analyses_A.html), and HMSC and regression results are [here](https://eldre.github.io/eldre-phd/Chap2/C2_analyses_B.html).
 
 # 3. PhD Chapter 3
 
-This [script](https://eldre.github.io/eldre-phd/Chap3/C3_analyses.html) compile all present analyses.
+This [script](https://eldre.github.io/eldre-phd/Chap3/C3_analyses.html) compile all analyses.
