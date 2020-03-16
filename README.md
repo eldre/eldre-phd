@@ -4,9 +4,11 @@ These pages present results obtained during the PhD of Elliot Dreujou (Universit
 
 If you have any question, do not hesitate to contact me at: *elliot.dreujou(at)uqar.ca*
 
-> **Latest updates** (*February 10th*)<br>
-- Update of functions
-- Reordering and tidying of scripts
+> **Latest updates** (*March 16th*)<br>
+- Update of scripts with the addition of fisheries activities and small, medium and large particule models
+- Precision of methodologies used for each influence index
+- Reruning of raster creation procedures to uniformize resolutions
+- Update of functions, with addition of kernel smoothing and the new version of RelativeExposure()
 
 > **Previous major updates** (*January 20th*)<br>
 - Addition of 2017 campaign (same stations as in 2016)
