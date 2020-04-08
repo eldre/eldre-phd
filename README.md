@@ -4,16 +4,17 @@ These pages present results obtained during the PhD of Elliot Dreujou (Universit
 
 If you have any question, do not hesitate to contact me at: *elliot.dreujou(at)uqar.ca*
 
-> **Latest updates** (*March 16th*)<br>
+> **Latest updates** (*April 8th*)<br
+- Addition of aquaculture and shipping traffic HA and update of scripts accordingly
+- Conversion of HA source linestring to points to allow a better calculation of exposure
+- Increase of bandwidth value for fisheries other than traps
+- Various updates in analyses scripts
+
+> **Previous major updates** (*March 16th*)<br>
 - Update of scripts with the addition of fisheries activities and small, medium and large particule models
 - Precision of methodologies used for each influence index
 - Reruning of raster creation procedures to uniformize resolutions
 - Update of functions, with addition of kernel smoothing and the new version of RelativeExposure()
-
-> **Previous major updates** (*January 20th*)<br>
-- Addition of 2017 campaign (same stations as in 2016)
-- Modification of species in the species list (*e.g.* bryozoans and hydrozoans added)
-- Reordering and tidying of scripts
 
 -----
 
