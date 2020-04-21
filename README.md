@@ -4,17 +4,16 @@ These pages present results obtained during the PhD of Elliot Dreujou (Universit
 
 If you have any question, do not hesitate to contact me at: *elliot.dreujou(at)uqar.ca*
 
-> **Latest updates** (*April 8th*)<br
+> **Previous major updates** (*April 21st*)<br>
+- Update of exposure and influence rasters, conversion to rasterStacks to simplify file storage and scripts
+- Preparation of files for SDM analyses (WIP)
+- Various updates in analyses scripts
+
+> **Previous major updates** (*April 8th*)<br>
 - Addition of aquaculture and shipping traffic HA and update of scripts accordingly
 - Conversion of HA source linestring to points to allow a better calculation of exposure
 - Increase of bandwidth value for fisheries other than traps
 - Various updates in analyses scripts
-
-> **Previous major updates** (*March 16th*)<br>
-- Update of scripts with the addition of fisheries activities and small, medium and large particule models
-- Precision of methodologies used for each influence index
-- Reruning of raster creation procedures to uniformize resolutions
-- Update of functions, with addition of kernel smoothing and the new version of RelativeExposure()
 
 -----
 
