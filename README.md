@@ -4,7 +4,7 @@ These pages present results obtained during the PhD of Elliot Dreujou (Universit
 
 If you have any question, do not hesitate to contact me at: *elliot.dreujou(at)uqar.ca*
 
-> **Previous major updates** (*April 21st*)<br>
+> **Previous major updates** (*May 6th*)<br>
 - Addition of SDM sections for presence/absence data with GLM (WIP)
 - Fixing of variable standardization
 - Various script tidying and updates
