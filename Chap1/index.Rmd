@@ -1,6 +1,7 @@
 ---
 title: PhD Chapter 1
 author: Elliot Dreujou
+date: "`r Sys.Date()`"
 output:
   rmdformats::readthedown:
     self_contained: true
@@ -49,7 +50,10 @@ Maps and figures can be found [here](https://eldre.github.io/eldre-phd/Chap1/C1_
 -----
 
 
+<center> `r emo::ji("house")` [HOME](https://eldre.github.io/eldre-phd/) </center>
+
+
 <!--
 setwd("/Volumes/Crystal/WEB/eldre-phd/Chap1")
-rmarkdown::render(input = "index.md", output_file = "C1_index.html")
+rmarkdown::render(input = "index.Rmd", output_file = "C1_index.html")
 -->
