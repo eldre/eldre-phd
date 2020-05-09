@@ -50,10 +50,11 @@ Maps and figures can be found [here](https://eldre.github.io/eldre-phd/Chap1/C1_
 -----
 
 
-<center> `r emo::ji("house")` [HOME](https://eldre.github.io/eldre-phd/) </center>
+<center> <p style="font-size:50px">
+[`r emo::ji("house")`](https://eldre.github.io/eldre-phd/)
+</p> </center>
 
-
-<!--
+```{r rendering, eval=FALSE, include=FALSE}
 setwd("/Volumes/Crystal/WEB/eldre-phd/Chap1")
 rmarkdown::render(input = "index.Rmd", output_file = "C1_index.html")
--->
+```
