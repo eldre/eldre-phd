@@ -5,7 +5,7 @@ date: "`r Sys.Date()`"
 output:
   rmdformats::readthedown:
     self_contained: true
-    toc_depth: 1
+    toc_depth: 3
     fig_caption: true
     thumbnails: false
     lightbox: true
@@ -15,15 +15,26 @@ output:
 
 This chapter is currently being reviewed for publication in *Regional Studies in Marine Science*. Scripts and datasets are stored on CHONe II's Dataverse [online repository](https://doi.org/10.5683/SP2/5LJYXO).
 
-# 1. 2014 campaign
+Two types of analysis have been done:
+
+- the first with all stations pooled together where similarity clusters have been defined and examined
+- the second with a differenciation by sampling campaigns and the use of *a priori* factors such as condition or region
+
+# 1. Global analysis
+
+Maps and figures can be found [here](https://eldre.github.io/eldre-phd/Chap1/C1_analyses_A.html), and analyses and regressions are [here](https://eldre.github.io/eldre-phd/Chap1/C1_analyses_B.html).
+
+# 2. Analysis by campaign
+
+## 2.1. 2014 campaign
 
 Maps and figures can be found [here](https://eldre.github.io/eldre-phd/Chap1/C1_analyses_14A.html), and analyses and regressions are [here](https://eldre.github.io/eldre-phd/Chap1/C1_analyses_14B.html).
 
-# 2. 2016 campaign
+## 2.2. 2016 campaign
 
 Maps and figures can be found [here](https://eldre.github.io/eldre-phd/Chap1/C1_analyses_16A.html), and analyses and regressions are [here](https://eldre.github.io/eldre-phd/Chap1/C1_analyses_16B.html).
 
-# 3. 2017 campaign
+## 2.3. 2017 campaign
 
 Maps and figures can be found [here](https://eldre.github.io/eldre-phd/Chap1/C1_analyses_17A.html), and analyses and regressions are [here](https://eldre.github.io/eldre-phd/Chap1/C1_analyses_17B.html).
 
