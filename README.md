@@ -4,8 +4,8 @@ These pages present results obtained during the PhD of Elliot Dreujou (Universit
 
 If you have any question, do not hesitate to contact me at: *elliot.dreujou(at)uqar.ca*
 
-> **Previous major updates** (*May 15th*)<br>
-- Many updates for chapter 1, with the addition of a global analysis without *a priori* factors (WIP)
+> **Previous major updates** (*May 17th*)<br>
+- Many updates for chapter 1, with the addition of a global analysis without *a priori* factors
 - Scripts tidying and optimization
 
 > **Previous major updates**<br>
