@@ -4,14 +4,14 @@ These pages present results obtained during the PhD of Elliot Dreujou (Universit
 
 If you have any question, do not hesitate to contact me at: *elliot.dreujou(at)uqar.ca*
 
-> **Previous major updates** (*May 17th*)<br>
-- Many updates for chapter 1, with the addition of a global analysis without *a priori* factors
+> **Previous major updates** (*May 21st*)<br>
+- Deletion of PERMANOVA results for chapter 1 (not applciable on clustering results)
+- Addition of cluster descriptions
 - Scripts tidying and optimization
 
 > **Previous major updates**<br>
+- Many updates for chapter 1, with the addition of a global analysis without *a priori* factors
 - Addition of SDM sections for presence/absence data with GLM (WIP)
-- Update of exposure and influence rasters, conversion to rasterStacks to simplify file storage and scripts
-- Addition of aquaculture and shipping traffic HA and update of scripts accordingly
 
 -----
 
