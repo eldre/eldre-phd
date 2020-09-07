@@ -13,7 +13,7 @@ output:
     css: style.css
 ---
 
-This chapter is currently being reviewed for publication in *Regional Studies in Marine Science*. Scripts and datasets are stored on CHONe II's Dataverse [online repository](https://doi.org/10.5683/SP2/5LJYXO).
+This chapter is published in *Water* (online version [here](https://www.mdpi.com/2073-4441/12/9/2424)). Scripts and datasets are stored on CHONe II's Dataverse repository (online version [here](https://doi.org/10.5683/SP2/5LJYXO)).
 
 Two types of analysis have been done:
 
