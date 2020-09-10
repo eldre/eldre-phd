@@ -4,15 +4,12 @@ These pages present results obtained during the PhD of Elliot Dreujou (Universit
 
 If you have any question, do not hesitate to contact me (*elliot.dreujou(at)uqar.ca*).
 
-> **Current update** (*September 7th*)<br>
-- Huge work on Chapter 2: addition of indices calculation, update of functions and data
+> **Current update** (*September 9th*)<br>
+- Addition of covariation and correlation between indices and abiotic parameters (WIP)
 - Housekeeping on the repositories and minor updates
 
 > **Previous major updates**<br>
-- Many updates for chapter 1, with the addition of a global analysis without *a priori* factors and after manuscript revisions
-- Addition of SDM results for Chapter 3, with many changes to the analyses script structure and results
-- Update of activity exposure indices and methodology
-- Addition of SDM sections for presence/absence data with GLM (WIP)
+- Huge work on Chapter 2: addition of indices calculation, update of functions and data
 
 -----
 
