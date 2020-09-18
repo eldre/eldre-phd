@@ -4,11 +4,12 @@ These pages present results obtained during the PhD of Elliot Dreujou (Universit
 
 If you have any question, do not hesitate to contact me (*elliot.dreujou(at)uqar.ca*).
 
-> **Current update** (*September 9th*)<br>
-- Addition of covariation and correlation between indices and abiotic parameters (WIP)
-- Housekeeping on the repositories and minor updates
+> **Current update** (*September 18th*)<br>
+- Addition of more indicators, AB curves, ecological status calculation
+- Various housekeeping
 
 > **Previous major updates**<br>
+- Addition of covariation and correlation between indices and abiotic parameters (WIP)
 - Huge work on Chapter 2: addition of indices calculation, update of functions and data
 
 -----
