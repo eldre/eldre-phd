@@ -4,11 +4,13 @@ These pages present results obtained during the PhD of Elliot Dreujou (Universit
 
 If you have any question, do not hesitate to contact me (*elliot.dreujou(at)uqar.ca*).
 
-> **Current update** (*September 18th*)<br>
-- Addition of more indicators, AB curves, ecological status calculation
+> **Current update** (*September 23rd*)<br>
+- Splitting of analyses scripts, discrimination between shallow and deep stations
+- Addition of bootstraping for indicators' mean
 - Various housekeeping
 
 > **Previous major updates**<br>
+- Addition of more indicators, AB curves, ecological status calculation
 - Addition of covariation and correlation between indices and abiotic parameters (WIP)
 - Huge work on Chapter 2: addition of indices calculation, update of functions and data
 
@@ -21,7 +23,7 @@ All analyses can be found with this [page](https://eldre.github.io/eldre-phd/Cha
 
 # 2. Evaluation of environmental status
 
-This [script](https://eldre.github.io/eldre-phd/Chap2/C2_analyses.html) compile all analyses.
+Calculation of indicators are presented [here](https://eldre.github.io/eldre-phd/Chap2/C2_analyses_A.html) and statistical analyses are [here](https://eldre.github.io/eldre-phd/Chap2/C2_analyses_B.html).
 
 # 3. Community structure and local exposure
 
