@@ -20,6 +20,13 @@ Two types of analysis have been done:
 - the first with all stations pooled together where similarity clusters have been defined and examined
 - the second with a differenciation by sampling campaigns and the use of *a priori* factors such as condition or region
 
+<center> <p style="font-size:50px">
+[`r emo::ji("house")`](https://eldre.github.io/eldre-phd/)
+</p> </center>
+
+-----
+
+
 # 1. Global analysis
 
 Maps and figures can be found [here](https://eldre.github.io/eldre-phd/Chap1/C1_analyses_A.html), and analyses and regressions are [here](https://eldre.github.io/eldre-phd/Chap1/C1_analyses_B.html).
@@ -60,10 +67,6 @@ Maps and figures can be found [here](https://eldre.github.io/eldre-phd/Chap1/C1_
 
 -----
 
-
-<center> <p style="font-size:50px">
-[`r emo::ji("house")`](https://eldre.github.io/eldre-phd/)
-</p> </center>
 
 ```{r rendering, eval=FALSE, include=FALSE}
 setwd("/Volumes/Crystal/WEB/eldre-phd/Chap1")

@@ -4,7 +4,7 @@ These pages present results obtained during the PhD of Elliot Dreujou (Universit
 
 If you have any question, do not hesitate to contact me (*elliot.dreujou(at)uqar.ca*).
 
-> **Current update** (*September 23rd*)<br>
+> **Current update** (*September 26th*)<br>
 - Splitting of analyses scripts, discrimination between shallow and deep stations
 - Addition of bootstraping for indicators' mean
 - Various housekeeping
