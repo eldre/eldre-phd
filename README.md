@@ -27,4 +27,4 @@ Calculation of indicators are presented [here](https://eldre.github.io/eldre-phd
 
 # 3. Community structure and local exposure
 
-Calculations of indices of influence are presented [here](https://eldre.github.io/eldre-phd/Chap3/C3_analyses_A.html), statistical analyses are [here](https://eldre.github.io/eldre-phd/Chap3/C3_analyses_B.html) and species distribution modelling are [here](https://eldre.github.io/eldre-phd/Chap3/C2_analyses_C.html).
+Calculations of indices of influence are presented [here](https://eldre.github.io/eldre-phd/Chap3/C3_analyses_A.html), statistical analyses are [here](https://eldre.github.io/eldre-phd/Chap3/C3_analyses_B.html) and species distribution modelling are [here](https://eldre.github.io/eldre-phd/Chap3/C3_analyses_C.html).
