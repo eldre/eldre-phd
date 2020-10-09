@@ -4,15 +4,15 @@ These pages present results obtained during the PhD of Elliot Dreujou (Universit
 
 If you have any question, do not hesitate to contact me (*elliot.dreujou(at)uqar.ca*).
 
-> **Current update** (*September 26th*)<br>
-- Splitting of analyses scripts, discrimination between shallow and deep stations
-- Addition of bootstraping for indicators' mean
+> **Current update** (*October 9th*)<br>
+- Regrouping of human activities and update of methodology for exposure indices and of related statistical analyses
+- Update of GLM and HMSC modelling, with results formating and diagnostics
 - Various housekeeping
 
 > **Previous major updates**<br>
-- Addition of more indicators, AB curves, ecological status calculation
-- Addition of covariation and correlation between indices and abiotic parameters (WIP)
-- Huge work on Chapter 2: addition of indices calculation, update of functions and data
+- Splitting of analyses scripts, discrimination between shallow and deep stations (C2)
+- Addition of bootstraping for indicators' mean (C2)
+- Addition of more indicators, AB curves, ecological status calculation (C2)
 
 -----
 
@@ -27,6 +27,4 @@ Calculation of indicators are presented [here](https://eldre.github.io/eldre-phd
 
 # 3. Community structure and local exposure
 
-Calculations of indices of influence are presented [here](https://eldre.github.io/eldre-phd/Chap3/C3_analyses_A.html), regressions are [here](https://eldre.github.io/eldre-phd/Chap3/C3_analyses_B.html) and species distribution modelling are [here](https://eldre.github.io/eldre-phd/Chap3/C2_analyses_C.html).
-
-The SDM page is not operational yet, it will be updated in a future version.
+Calculations of indices of influence are presented [here](https://eldre.github.io/eldre-phd/Chap3/C3_analyses_A.html), statistical analyses are [here](https://eldre.github.io/eldre-phd/Chap3/C3_analyses_B.html) and species distribution modelling are [here](https://eldre.github.io/eldre-phd/Chap3/C2_analyses_C.html).
