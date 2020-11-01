@@ -4,16 +4,14 @@ These pages present results obtained during the PhD of Elliot Dreujou (Universit
 
 If you have any question, do not hesitate to contact me (*elliot.dreujou(at)uqar.ca*).
 
-> **Current update** (*October 19th*)<br>
-- Addition of nMDS to chapter2, with a distinction between bay and archipelago stations
+> **Current update** (*October 31st*)<br>
+- Addition/update of figures in C2 and C3
 - Various housekeeping
 
 > **Previous major updates**<br>
+- Addition of nMDS to chapter2, with a distinction between bay and archipelago stations
 - Regrouping of human activities and update of methodology for exposure indices and of related statistical analyses
 - Update of GLM and HMSC modelling, with results formating and diagnostics
-- Splitting of analyses scripts, discrimination between shallow and deep stations (C2)
-- Addition of bootstraping for indicators' mean (C2)
-- Addition of more indicators, AB curves, ecological status calculation (C2)
 
 -----
 
