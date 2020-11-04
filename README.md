@@ -4,7 +4,8 @@ These pages present results obtained during the PhD of Elliot Dreujou (Universit
 
 If you have any question, do not hesitate to contact me (*elliot.dreujou(at)uqar.ca*).
 
-> **Current update** (*October 31st*)<br>
+> **Current update** (*November 4th*)<br>
+- Update of exposure indices and HMSC results
 - Addition/update of figures in C2 and C3
 - Various housekeeping
 
