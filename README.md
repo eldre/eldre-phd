@@ -4,15 +4,14 @@ These pages present results obtained during the PhD of Elliot Dreujou (Universit
 
 If you have any question, do not hesitate to contact me (*elliot.dreujou(at)uqar.ca*).
 
-> **Current update** (*November 4th*)<br>
-- Update of exposure indices and HMSC results
-- Addition/update of figures in C2 and C3
+> **Current update** (*November 5th*)<br>
+- Regroupment of fisheries indices of exposure
+- Update of GLM and HMSC modelling, with results formating and diagnostics
 - Various housekeeping
 
 > **Previous major updates**<br>
-- Addition of nMDS to chapter2, with a distinction between bay and archipelago stations
-- Regrouping of human activities and update of methodology for exposure indices and of related statistical analyses
-- Update of GLM and HMSC modelling, with results formating and diagnostics
+- Addition/update of figures in C2 and C3
+- Regrouping of human activities and update of methodology for exposure indices and related statistical analyses
 
 -----
 
