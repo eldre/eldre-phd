@@ -4,14 +4,14 @@ These pages present results obtained during the PhD of Elliot Dreujou (Universit
 
 If you have any question, do not hesitate to contact me (*elliot.dreujou(at)uqar.ca*).
 
-> **Current update** (*November 5th*)<br>
-- Regroupment of fisheries indices of exposure
-- Update of GLM and HMSC modelling, with results formating and diagnostics
+> **Current update** (*November 7th*)<br>
+- Update of univariate regressions, depth added as a covariate
+- Addition of multivariate regression (from PRIMER file) and related dbRDA
 - Various housekeeping
 
 > **Previous major updates**<br>
-- Addition/update of figures in C2 and C3
-- Regrouping of human activities and update of methodology for exposure indices and related statistical analyses
+- Regroupment of fisheries indices of exposure
+- Update of GLM and HMSC modelling, with results formating and diagnostics
 
 -----
 
