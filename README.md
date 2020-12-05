@@ -4,12 +4,13 @@ These pages present results obtained during the PhD of Elliot Dreujou (Universit
 
 If you have any question, do not hesitate to contact me (*elliot.dreujou(at)uqar.ca*).
 
-> **Current update** (*November 7th*)<br>
-- Update of univariate regressions, depth added as a covariate
-- Addition of multivariate regression (from PRIMER file) and related dbRDA
-- Various housekeeping
+> **Current update** (*December 5th*)<br>
+- Addition of validation table for SDM predictions of taxa richness
+- Minor corrections and typo fix
 
 > **Previous major updates**<br>
+- Update of univariate regressions, depth added as a covariate
+- Addition of multivariate regression (from PRIMER file) and related dbRDA
 - Regroupment of fisheries indices of exposure
 - Update of GLM and HMSC modelling, with results formating and diagnostics
 
