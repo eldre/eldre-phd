@@ -4,7 +4,8 @@ These pages present results obtained during the PhD of Elliot Dreujou (Universit
 
 If you have any question, do not hesitate to contact me (*elliot.dreujou(at)uqar.ca*).
 
-> **Current update** (*December 5th*)<br>
+> **Current update** (*December 11th*)<br>
+- Addition of HMSC models considering all variables (predictions impossible at the bay scale with the rasters)
 - Addition of validation table for SDM predictions of taxa richness
 - Minor corrections and typo fix
 
