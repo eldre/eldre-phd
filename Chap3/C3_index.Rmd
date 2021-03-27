@@ -1,0 +1,37 @@
+---
+title: PhD Chapter 3
+author: Elliot Dreujou
+date: "`r Sys.Date()`"
+output:
+  rmdformats::readthedown:
+    self_contained: true
+    toc_depth: 3
+    fig_caption: true
+    thumbnails: false
+    lightbox: true
+    gallery: false
+    css: style.css
+---
+
+This chapter is in preparation, to be submitted in mid-2021 to *Elementa, Science of the Anthropocene* of *PLoS ONE*.
+
+<center> <p style="font-size:50px">
+[`r emo::ji("house")`](https://eldre.github.io/eldre-phd/)
+</p> </center>
+
+-----
+
+
+Calculations of indices of influence are presented [here](https://eldre.github.io/eldre-phd/Chap3/C3_analyses_A.html).
+
+Statistical analyses are [here](https://eldre.github.io/eldre-phd/Chap3/C3_analyses_B.html).
+
+Species distribution modelling are [here](https://eldre.github.io/eldre-phd/Chap3/C3_analyses_C.html).
+
+-----
+
+
+```{r rendering, eval=FALSE, include=FALSE}
+setwd("/Volumes/Crystal/WEB/eldre-phd/Chap3")
+rmarkdown::render(input = "C3_index.Rmd", output_file = "C3_index.html")
+```

@@ -1,0 +1,35 @@
+---
+title: PhD Chapter 2
+author: Elliot Dreujou
+date: "`r Sys.Date()`"
+output:
+  rmdformats::readthedown:
+    self_contained: true
+    toc_depth: 3
+    fig_caption: true
+    thumbnails: false
+    lightbox: true
+    gallery: false
+    css: style.css
+---
+
+This chapter is published in *Frontiers in Marine Science* (online version [here](https://www.frontiersin.org/articles/10.3389/fmars.2021.637546)). Scripts and datasets are stored on CHONe II's Dataverse repository (online version [here](https://doi.org/10.5683/SP2/WDDDMI)).
+
+<center> <p style="font-size:50px">
+[`r emo::ji("house")`](https://eldre.github.io/eldre-phd/)
+</p> </center>
+
+-----
+
+
+Calculation of indicators are presented [here](https://eldre.github.io/eldre-phd/Chap2/C2_analyses_A.html).
+
+Statistical analyses are [here](https://eldre.github.io/eldre-phd/Chap2/C2_analyses_B.html).
+
+-----
+
+
+```{r rendering, eval=FALSE, include=FALSE}
+setwd("/Volumes/Crystal/WEB/eldre-phd/Chap2")
+rmarkdown::render(input = "C2_index.Rmd", output_file = "C2_index.html")
+```
