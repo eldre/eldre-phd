@@ -33,6 +33,6 @@ Analyses can be found at this [page](https://eldre.github.io/eldre-phd/Chap3/C3_
 -----
 
 
-[Graphical abstract of the PhD thesis]("/Volumes/Crystal/WEB/eldre-phd/Graphical abstract.png")
+![Graphical abstract of the PhD thesis]("/Volumes/Crystal/WEB/eldre-phd/Graphical abstract.png")
 
 -----
