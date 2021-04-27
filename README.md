@@ -6,10 +6,9 @@ These pages present results obtained during the PhD of Elliot Dreujou (Universit
 
 If you have any question, do not hesitate to contact me (*elliot.dreujou(at)uqar.ca*).
 
-> **Current update** (*March 27*)<br>
-- Update of the human exposure scores (C3) and related analyses
-- Reorganization of webpages
-- Minor corrections
+> **Current update** (*April 27*)<br>
+- Update of the human exposure scores (WIP)
+- Update of the regression models (WIP)
 
 > **Previous major updates**<br>
 - Addition of HMSC models considering all variables (predictions impossible at the bay scale with the rasters)
