@@ -6,14 +6,14 @@ These pages present results obtained during the PhD of Elliot Dreujou (Universit
 
 If you have any question, please contact *elliot.dreujou(at)uqar.ca*.
 
-> **Current update** (*October 25*)<br>
+> **Current update** (*November 6*)<br>
+- Addition of C2 indices in analyses_B
+- Various updates
+
+> **Previous major updates**<br>
 - Update of the human exposure scores, using methods discussed with Andrew
 - Recalculation of SDM models for C3, update of outputs, addition of results for density data
 - Reorganization of C1 index section
-
-> **Previous major updates**<br>
-- Update of the human exposure scores (WIP)
-- Update of the regression models (WIP)
 
 -----
 
