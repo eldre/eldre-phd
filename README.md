@@ -6,9 +6,9 @@ These pages present results obtained during the PhD of Elliot Dreujou (Universit
 
 If you have any question, please contact *elliot.dreujou(at)uqar.ca*.
 
-> **Current update** (*November 6*)<br>
+> **Current update** (*November 22*)<br>
 - Addition of C2 indices in analyses_B
-- Various updates
+- Optimization and various updates
 
 > **Previous major updates**<br>
 - Update of the human exposure scores, using methods discussed with Andrew
