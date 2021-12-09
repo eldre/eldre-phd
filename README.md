@@ -1,19 +1,20 @@
 **Welcome!**
 
-These pages present results obtained during the PhD of Elliot Dreujou (Université du Québec à Rimouski - Institut des Sciences de la Mer) :
+These pages present results obtained during my PhD (Université du Québec à Rimouski - Institut des Sciences de la Mer) :
 
 *Influence des activités humaines sur les écosystèmes benthiques d’une zone industrialo-portuaire subarctique : application d’indicateurs de statut écologique et prédiction de la structure des communautés*
 
-If you have any question, please contact *elliot.dreujou(at)uqar.ca*.
+If you have any question, please contact me using the form on my webiste https://eldre.github.io.
 
-> **Current update** (*November 22*)<br>
-- Addition of C2 indices in analyses_B
+> **Current update** (*December 9*)<br>
+- Addition of indices regressions in C2
+- Addition of single multivariate regressions in C2 and `vegan` dbRDA
 - Optimization and various updates
 
 > **Previous major updates**<br>
 - Update of the human exposure scores, using methods discussed with Andrew
 - Recalculation of SDM models for C3, update of outputs, addition of results for density data
-- Reorganization of C1 index section
+- Addition of C2 indices in analyses_B
 
 -----
 
@@ -46,20 +47,3 @@ Calculations of indices of influence are presented [here](https://eldre.github.i
 
 
 ![Graphical abstract of the PhD thesis](https://eldre.github.io/eldre-phd/Abstract.png)
-
-|                                 |                         | 2014                                               | 2016                                               | 2017                                          |
-|:--------------------------------|:------------------------|---------------------------------------------------:|---------------------------------------------------:|---------------------------------------------------:|
-| **Sampling date**               |                         | August-September                                   | June to August                                     | July                                               |
-| **Criteria for perturbation**   |                         | Potentially impacted if close to the city or industries, References outside the bay | Human-impacted if in a region with a highly populated area, industries and maritime activities, Reference if none of these criteria | Human-impacted if in a region with a highly populated area, industries and maritime activities, Reference if none of these criteria |
-| **Regions considered**          |                         | BSI                                                | BSI, CPC, BDA, MR                                  | BSI, MR                                            |
-| **Number of sampled stations**  |                         | 40 (20 HI, 20 R)                                   | 78 (26 BSI, 19 CPC, 18 BDA, 15 MR)                 | 126 (111 BSI, 15 MR)                               |
-| **Parameters sampled**          | Organic matter          | **yes**                                            | **yes**                                            | **yes**                                            |
-|                                 | Photosynthetic pigments | no                                                 | **yes**                                            | **yes**                                         |
-|                                 | Sediment grain-size     | **yes**                                            | **yes**                                            | **yes**                                      |
-|                                 | Heavy-metals            | **yes**                                            | **yes (for a limited number of stations)**         | no (interpolated based on 2014 and 2016 values) |
-|  **Benthic communities**        | Compartment targeted    | Macro-infauna                                      | Macro-infauna                                      | Macro-infauna                                      |
-|                                 | Sieved used             | 500 µm                                             | 1 mm                                               | 500 µm and 1 mm                                  |
-|                                 | Conservation technique  | Formaldehyle                                       | Formaldehyle                                       | Formaldehyle                                            |
-| **Others**                      |                         | N.A. | N.A. | N.A. |
-
------
