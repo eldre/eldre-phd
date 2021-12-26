@@ -6,9 +6,10 @@ These pages present results obtained during my PhD (Université du Québec à Ri
 
 If you have any question, please contact me using the form on my webiste https://eldre.github.io.
 
-> **Current update** (*December 9*)<br>
-- Addition of indices regressions in C2
-- Addition of single multivariate regressions in C2 and `vegan` dbRDA
+> **Current update** (*December 26*)<br>
+- Addition of indices regressions in C3
+- Addition of single multivariate regressions in C3 and `vegan` dbRDA
+- Addition of IndVal calculations in C3 and update of species distribution calculations
 - Optimization and various updates
 
 > **Previous major updates**<br>
