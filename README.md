@@ -6,15 +6,13 @@ These pages present results obtained during my PhD (Université du Québec à Ri
 
 If you have any question, please contact me using the form on my webiste https://eldre.github.io.
 
-> **Current update** (*December 26*)<br>
-- Addition of indices regressions in C3
-- Addition of single multivariate regressions in C3 and `vegan` dbRDA
-- Addition of IndVal calculations in C3 and update of species distribution calculations
+> **Current update** (*February 25*)<br>
 - Optimization and various updates
 
 > **Previous major updates**<br>
-- Update of the human exposure scores, using methods discussed with Andrew
-- Recalculation of SDM models for C3, update of outputs, addition of results for density data
+- Addition of indices regressions in C3
+- Addition of single multivariate regressions in C3 and `vegan` dbRDA
+- Addition of IndVal calculations in C3 and update of species distribution calculations
 - Addition of C2 indices in analyses_B
 
 -----
