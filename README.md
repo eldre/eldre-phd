@@ -7,13 +7,13 @@ These pages present results obtained during my PhD (Université du Québec à Ri
 If you have any question, please contact me using the form on my webiste https://eldre.github.io.
 
 > **Current update** (*February 25*)<br>
-- Optimization and various updates
+- Addition of files and housekeeping
 
 > **Previous major updates**<br>
+- Optimization and various updates
 - Addition of indices regressions in C3
 - Addition of single multivariate regressions in C3 and `vegan` dbRDA
 - Addition of IndVal calculations in C3 and update of species distribution calculations
-- Addition of C2 indices in analyses_B
 
 -----
 
@@ -38,7 +38,7 @@ Calculation of indicators are presented [here](https://eldre.github.io/eldre-phd
 
 # 3. Modelling of exposure from human activities
 
-This chapter is in preparation, to be submitted in mid-2021 to *Elementa, Science of the Anthropocene* or *PLoS ONE*.
+This chapter is published in *Elementa: Science of the Anthropocene* (online verse [here](https://online.ucpress.edu/elementa/article/11/1/00024/197321/Multiple-human-activities-in-coastal-benthic)). Scripts and datasets are stored on CHONe II's Dataverse repository (online version [here](https://doi.org/10.5683/SP3/5XZKP3)).
 
 Calculations of indices of influence are presented [here](https://eldre.github.io/eldre-phd/Chap3/C3_analyses_A.html), statistical analyses are [here](https://eldre.github.io/eldre-phd/Chap3/C3_analyses_B.html), and species distribution modelling are [here](https://eldre.github.io/eldre-phd/Chap3/C3_analyses_C.html).
 
