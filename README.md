@@ -45,4 +45,4 @@ Calculations of indices of influence are presented [here](https://eldre.github.i
 -----
 
 <div style="text-align:center">
-<img src="https://eldre.github.io/eldre-phd/Abstract.png" width=1000 alt="Graphical abstract of the PhD thesis">
+<img src="https://eldre.github.io/eldre-phd/Abstract.png" width=500 alt="Graphical abstract of the PhD thesis">
