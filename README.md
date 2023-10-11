@@ -38,11 +38,10 @@ Calculation of indicators are presented [here](https://eldre.github.io/eldre-phd
 
 # 3. Modelling of exposure from human activities
 
-This chapter is published in *Elementa: Science of the Anthropocene* (online verse [here](https://online.ucpress.edu/elementa/article/11/1/00024/197321/Multiple-human-activities-in-coastal-benthic)). Scripts and datasets are stored on CHONe II's Dataverse repository (online version [here](https://doi.org/10.5683/SP3/5XZKP3)).
+This chapter is published in *Elementa: Science of the Anthropocene* (online version [here](https://online.ucpress.edu/elementa/article/11/1/00024/197321/Multiple-human-activities-in-coastal-benthic)). Scripts and datasets are stored on CHONe II's Dataverse repository (online version [here](https://doi.org/10.5683/SP3/5XZKP3)).
 
 Calculations of indices of influence are presented [here](https://eldre.github.io/eldre-phd/Chap3/C3_analyses_A.html), statistical analyses are [here](https://eldre.github.io/eldre-phd/Chap3/C3_analyses_B.html), and species distribution modelling are [here](https://eldre.github.io/eldre-phd/Chap3/C3_analyses_C.html).
 
 -----
 
-
-![Graphical abstract of the PhD thesis](https://eldre.github.io/eldre-phd/Abstract.png)
+<img src="https://eldre.github.io/eldre-phd/Abstract.png" width=1500 alt="Graphical abstract of the PhD thesis">
